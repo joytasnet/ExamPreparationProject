@@ -13,7 +13,7 @@ cat
 x  
 i  
 A  
-:wq
+:wq  
 dd  
 u  
 o  
@@ -24,6 +24,7 @@ cw
 git init  
 git status  
 git commit  
+git diff  
 git branch  
 git checkout  
 git marge  
