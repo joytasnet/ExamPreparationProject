@@ -13,7 +13,7 @@ cat
 x  
 i  
 A  
-:wq!  
+:wq
 dd  
 u  
 o  
