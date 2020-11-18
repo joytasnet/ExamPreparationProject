@@ -61,3 +61,6 @@ git reset
 〇  
 ×  
 ×  
+
+sumが初期化されていない  
+case0: が break;されていない　　
