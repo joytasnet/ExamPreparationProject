@@ -73,7 +73,7 @@
 9. 61
 	 60
 10. x+yは5963
-11. water 20以上かつfood 80以下
+11. water 20以下 かつfood 80以上
 12. 
 ```
 int fortune=new java.util.Random().nextInt(4)+1;
