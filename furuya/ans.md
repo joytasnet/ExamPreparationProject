@@ -33,7 +33,7 @@
 1. UTF-8
 1. 段落を指定するタグ
 1. table
-1. &lt;!- -&gt;
+1. &lt;!-- --&gt;
 1. font-size
 1. width
 1. text-align: center
