@@ -1,2 +1,4 @@
 #java
 *.class
+#macos
+.DS_Store
